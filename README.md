@@ -16,5 +16,6 @@ We are enthusiasts, engineers, economists, business people, and philanthropists 
 Know more about us
 ----------
 **Medium**  @QUETQUAN
+**Twitter** @QuetzalQuant
 
 
